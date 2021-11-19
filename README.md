@@ -2,7 +2,7 @@
 
 Команды для запуска ноды после сборки:
 
-source devel/setup.bash
+source devel /setup.bash
 
 rosrun client_server server
 
